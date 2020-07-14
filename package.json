@@ -1,0 +1,15 @@
+{
+  "name": "navegador-flutuante",
+  "version": "1.0.0",
+  "description": "É uma webview de sobreposição simples",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  }
+}
