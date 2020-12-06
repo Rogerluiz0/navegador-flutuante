@@ -1,0 +1,11 @@
+body {
+  background-color: #130f0d;
+}
+
+#player{
+  width: 60px;
+  height: 60px;
+  border: 1px solid #fd951f;
+  background-color: #fd951f;
+  position: absolute;
+}
